@@ -1,4 +1,4 @@
-# 3D_simulation
+# 3D_Simulation
 
 > 본 파일은 `<windows.h>` 라이브러리를 사용하여 window 운영체제에서만 작동합니다.
 
